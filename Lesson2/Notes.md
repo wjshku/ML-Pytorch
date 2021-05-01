@@ -1,6 +1,6 @@
-# This is about the note I made regarding materials in Lesson2.
-##### The whole algorithm is usually divided into 4 parts.
-# 1. Import libraries
+## This is about the note I made regarding materials in Lesson2.
+## The whole algorithm is usually divided into 4 parts.
+#### 1. Import libraries
 
 import torch
 import jovian
